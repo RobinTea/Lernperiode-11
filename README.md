@@ -13,12 +13,19 @@ Ich möchte eine einfache App machen, die widgets auf mein Handy bringt. Einfach
 
 
 ## 29.08
+Da meine Kenntnisse über die Mobile Entwicklung im Moment begrenzt sind 
+- [ ] HR landet auf meiner seite und möchte keine redundanz mit den bereits gesendeten Daten
+- [ ] HR möchte Deutsch Kenntnisse sehen -> Text muss übersetzbar sein (beide Texte verfassen)
+- [ ] Kollege sieht den OLD TV FILTER und findet es unprofessionel (verbessern oder entfernen)
+- [ ] Erfahrener Informatiker und testet die tab-funktion
+
+## 05.09
 - [ ]  User Stories
 - [ ]  Tests
 - [ ]  Anforderugnen
 - [ ]  Dokumentation erstellen
 
-## 05.09
+## 12.05
 - [ ] aksjldfh
 - [ ] asdf
 - [ ] a
