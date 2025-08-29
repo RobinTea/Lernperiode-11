@@ -33,7 +33,7 @@ Wenn ein HR Angestellter, eines Unternehmens an dem ich mich beworben habe, auf 
 
 
 ## 05.09
-expo
+
 - [ ]  
 - [ ]  
 - [ ]  
