@@ -22,13 +22,13 @@ Da meine Kenntnisse über die Mobile Entwicklung im Moment begrenzt sind werde i
 
 Wenn ein HR Angestellter, eines Unternehmens an dem ich mich beworben habe, auf meiner Webseite kommt, möchte ich, ...
 
-- [ ] dass er die möglichen gewollten Daten so schnell wie möglich findet.
+- [x] dass er die möglichen gewollten Daten so schnell wie möglich findet.
 - [ ] dass er die Sprache wenn gewünscht auf Deutsch oder Englisch verstellen kann.
 <br><br>
 
 **Probleme**
 - [ ] Auf dem Firefox Browser funktioniert das Downloaden von Dokumenten nicht / die Beschreibungen sind nicht pro­fes­si­o­nell.
-- [ ] Im Menu Tab gibt es noch keine Gifs/PNGs die gezeigt werden können.
+- [x] Im Menu Tab gibt es noch keine Gifs/PNGs die gezeigt werden können.
 
 
 
