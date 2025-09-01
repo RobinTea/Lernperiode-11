@@ -33,11 +33,15 @@ Wenn ein HR Angestellter, eines Unternehmens an dem ich mich beworben habe, auf 
 
 
 ## 05.09
+Ich habe Expo als Alternative für .NET MAUI vorgeschlagen bekommen. Mithilfe dieser neuen Technologie möchte ich die Umsetzung starten
 
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ] 
+**User Stories**
+<br>
+Ich, der so viele Technologien ausprobieren möchte, suche nach...
+- [ ] Viele verschiedene Sensoren wurden verwendet
+- [ ] Ein fester Prototyp existiert
+- [ ] Mindestens ein Widget wurde umgesetzt
+- [ ] Unterschied zwischen IPhone und Android Applikationen lernen
 
 ## 12.09
 
