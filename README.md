@@ -44,6 +44,7 @@ Ich, der so viele Technologien ausprobieren möchte, suche nach...
 - [ ] Unterschied zwischen IPhone und Android Applikationen lernen
 
 https://docs.expo.dev/
+https://docs.expo.dev/tutorial/introduction/
 
 ## 12.09
 
