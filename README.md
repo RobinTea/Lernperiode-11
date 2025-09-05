@@ -1,50 +1,50 @@
-# Lernperiode-11
+# Welcome to your Expo app 👋
 
-22.08.2025 - 22.09.2025
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Get started
 
-## 22.08
- - [x] Mobile App Widget Layout
- - [ ] Mobile App User Stories
+1. Install dependencies
 
-Ich möchte eine einfache App machen, die widgets auf mein Handy bringt. Einfache Animationen und oder eine Implementation von einem anderen Projekt wie zB. die Text Prediction mini-AI
+   ```bash
+   npm install
+   ```
 
-<img width="422" height="796" alt="image" src="https://github.com/user-attachments/assets/20fa161b-c2fa-4569-a8fe-de5019596c2c" />
+2. Start the app
 
+   ```bash
+   npx expo start
+   ```
 
-## 29.08
-Da meine Kenntnisse über die Mobile Entwicklung im Moment begrenzt sind werde ich an meiner Portfolio Webseite weiterarbeiten. <br>
-```https://robintea.github.io/portfolio/```
-<br><br>
+In the output, you'll find options to open the app in a
 
-**User Stories**
-<br>
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-Wenn ein HR Angestellter, eines Unternehmens an dem ich mich beworben habe, auf meiner Webseite kommt, möchte ich, ...
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-- [x] dass er die möglichen gewollten Daten so schnell wie möglich findet.
-- [ ] dass er die Sprache wenn gewünscht auf Deutsch oder Englisch verstellen kann.
-<br><br>
+## Get a fresh project
 
-**Probleme**
-- [ ] Auf dem Firefox Browser funktioniert das Downloaden von Dokumenten nicht / die Beschreibungen sind nicht pro­fes­si­o­nell.
-- [x] Im Menu Tab gibt es noch keine Gifs/PNGs die gezeigt werden können.
+When you're ready, run:
 
+```bash
+npm run reset-project
+```
 
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## 05.09
-Ich habe Expo als Alternative für .NET MAUI vorgeschlagen bekommen. Mithilfe dieser neuen Technologie möchte ich die Umsetzung starten
+## Learn more
 
-**User Stories**
-<br>
-Ich, der so viele Technologien ausprobieren möchte, suche nach...
-- [ ] Viele verschiedene Sensoren wurden verwendet
-- [ ] Ein fester Prototyp existiert
-- [ ] Mindestens ein Widget wurde umgesetzt
-- [ ] Unterschied zwischen IPhone und Android Applikationen lernen
+To learn more about developing your project with Expo, look at the following resources:
 
-https://docs.expo.dev/
-https://docs.expo.dev/tutorial/introduction/
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## 12.09
+## Join the community
 
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
