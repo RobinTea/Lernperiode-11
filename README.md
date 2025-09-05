@@ -43,5 +43,7 @@ Ich, der so viele Technologien ausprobieren möchte, suche nach...
 - [ ] Mindestens ein Widget wurde umgesetzt
 - [ ] Unterschied zwischen IPhone und Android Applikationen lernen
 
+https://docs.expo.dev/
+
 ## 12.09
 
