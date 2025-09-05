@@ -39,9 +39,9 @@ Ich habe Expo als Alternative für .NET MAUI vorgeschlagen bekommen. Mithilfe di
 <br>
 Ich, der so viele Technologien ausprobieren möchte, suche nach...
 - [ ] Viele verschiedene Sensoren wurden verwendet
-- [ ] Ein fester Prototyp existiert
+- [x] Ein Prototyp existiert
 - [ ] Mindestens ein Widget wurde umgesetzt
-- [ ] Unterschied zwischen IPhone und Android Applikationen lernen
+- [x] Unterschied zwischen IPhone und Android Applikationen lernen
 
 https://docs.expo.dev/ <br>
 https://docs.expo.dev/tutorial/introduction/
