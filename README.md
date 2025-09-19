@@ -47,3 +47,20 @@ https://docs.expo.dev/ <br>
 https://docs.expo.dev/tutorial/introduction/
 
 ## 12.09
+
+Als Lernender, der mit Expo und React Native anfängt, suche ich nach...
+
+- [x] State-Management ausprobieren – Ich möchte sehen, wie sich die App live nach meinem Code verändert 
+- [x] Interaktion testen – Ich möchte, dass ein Button die Anzeige verändert.   
+- [ ] State & Hooks im Detail verstehen – Ich möchte die Unterschiede zu klassischen Frameworks kennenlernen.  
+- [ ] Hot Reloading & Fast Refresh nutzen – Ich möchte es mit bekannten IDEs vergleichen.  
+
+
+## 19.09
+
+Als Lernender, der mit Expo und React Native anfängt, suche ich nach...
+
+- [ ] Expo Libraries evaluieren – Ich möchte ausprobieren, wie einfach Kamera, Sensoren oder Audio integriert werden können.  
+- [ ] CI/CD & Deployment verstehen – Ich möchte testen, wie Expo EAS Builds für reale Geräte unterstützt.  
+- [ ] Architektur-Möglichkeiten prüfen – Ich möchte überlegen, wie man größere Apps mit Expo strukturiert (z. B. mit Navigation, Context API, Redux).  
+- [ ] Performance-Einschätzungen sammeln – Ich möchte sehen, wie performant eine kleine App auf verschiedenen Geräten läuft.  
