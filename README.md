@@ -60,7 +60,15 @@ Als Lernender, der mit Expo und React Native anfängt, suche ich nach...
 
 Als Lernender, der mit Expo und React Native anfängt, suche ich nach...
 
-- [ ] Expo Libraries evaluieren – Ich möchte ausprobieren, wie einfach Kamera, Sensoren oder Audio integriert werden können.  
+- [x] Expo Libraries evaluieren – Ich möchte ausprobieren, wie einfach Kamera, Sensoren oder Audio integriert werden können.  
 - [ ] CI/CD & Deployment verstehen – Ich möchte testen, wie Expo EAS Builds für reale Geräte unterstützt.  
-- [ ] Architektur-Möglichkeiten prüfen – Ich möchte überlegen, wie man größere Apps mit Expo strukturiert (z. B. mit Navigation, Context API, Redux).  
-- [ ] Performance-Einschätzungen sammeln – Ich möchte sehen, wie performant eine kleine App auf verschiedenen Geräten läuft.  
+- [x] Architektur-Möglichkeiten prüfen – Ich möchte überlegen, wie man größere Apps mit Expo strukturiert (z. B. mit Navigation, Context API, Redux).  
+- [x] Performance-Einschätzungen sammeln – Ich möchte sehen, wie performant eine kleine App auf verschiedenen Geräten läuft.
+
+
+## 26.09
+
+- [ ] lernen wie Widgets mit Expo funktionieren
+- [ ] Ein erstes Widget einbauen (ein custom text displayen)
+- [ ] ein Lo-fi Prototyp für das Modul 335 kreieren
+- [ ] mit der LB beginnen
