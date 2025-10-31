@@ -81,6 +81,11 @@ Heute erstellte ich die App aus dem Tutorial von ```https://docs.expo.dev/``` um
 <br>
 Die App ist ein Editor um Emojis auf Bilder zu Klatschen. Sie beinhaltet ein Menu, die Emoji Features (auswählen und hinzufügen), eine 404 Seite und Bilder Auswahl / Speicherung.
 
+- [x] Installation der NodeJS LTS Version
+- [x] Aufsetzen der IDE in VSC und der Expo Go App auf meinem IPhone
+- [x] Expo Tutorial Part 1 - Screen, Navigation, Image Picker
+- [x] Expo Tutorial Part 2 - Gesture, Buttons, Saving Feature
+
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/985537fc-895b-4ceb-8862-d3c329c36e5b" />
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/13134ef1-c2a7-4c34-969c-64826a4f85e6" />
