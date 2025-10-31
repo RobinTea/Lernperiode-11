@@ -68,7 +68,20 @@ Als Lernender, der mit Expo und React Native anfängt, suche ich nach...
 
 ## 26.09
 
+adf
+
 - [ ] lernen wie Widgets mit Expo funktionieren
 - [ ] Ein erstes Widget einbauen (ein custom text displayen)
-- [ ] ein Lo-fi Prototyp für das Modul 335 kreieren
-- [ ] mit der LB beginnen
+- [x] ein Lo-fi Prototyp für das Modul 335 kreieren
+- [x] mit der LB beginnen
+
+## 26.09
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+
+
