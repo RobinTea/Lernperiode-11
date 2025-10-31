@@ -75,12 +75,43 @@ adf
 - [x] ein Lo-fi Prototyp für das Modul 335 kreieren
 - [x] mit der LB beginnen
 
-## 26.09
+## 31.10
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+Heute erstellte ich eine App der ```https://docs.expo.dev/``` um Mobile Applikationen besser verstehen zu können und eine erste App erstellt zu haben.
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/985537fc-895b-4ceb-8862-d3c329c36e5b" />
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/13134ef1-c2a7-4c34-969c-64826a4f85e6" />
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/7b3015ba-4278-42cd-ba49-00ac44b7ef17" />
+
+<br>
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/c9d725ed-b05b-486d-ac29-f577c9f26a90" />
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/d69d63af-4b36-4701-8875-82e5d774ca25" />
+
+<br>
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/76586851-55bf-41b2-83db-1d616537b403" />
+
+<br>
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/b167a428-9245-45a1-a505-b8b4bcbbece2" />
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/d95cd68e-5913-4e8e-9df1-628ac22c5896" />
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/ee3353c4-56e3-4830-aaa8-c8539c45d87d" />
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/d46967dd-f239-471f-8197-623f190c9c84" />
+
+
+
+
+
+
+
+
 
 
 
