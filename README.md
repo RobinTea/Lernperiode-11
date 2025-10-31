@@ -1,6 +1,6 @@
 # Lernperiode-11
 
-22.08.2025 - 22.09.2025
+22.08.2025 - 31.10.2025
 
 
 ## 22.08
@@ -118,7 +118,9 @@ Die Bilder oben zeigen die Home, About und Main Page. Navigierung ist mit dem Me
 
 
 
+## Reflexion
 
+In dieser Lernperiode habe ich mich mit Mobilen Applikationen auseinander gesetzt (siehe Code folder) mit dem Fokus auf die Technologie Expo. Ich konnte meine App nicht erfolgreich erstellen wobei es an Fundamentalen Wissenslücken gelegen hat. Am Ende konnte ich jedoch eine Funktionierende App erstellen, was mich mit stolz erfüllt. :)
 
 
 
