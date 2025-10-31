@@ -77,7 +77,9 @@ adf
 
 ## 31.10
 
-Heute erstellte ich eine App der ```https://docs.expo.dev/``` um Mobile Applikationen besser verstehen zu können und eine erste App erstellt zu haben.
+Heute erstellte ich die App aus dem Tutorial von ```https://docs.expo.dev/``` um Mobile Applikationen besser verstehen zu können und eine erste App erstellt zu haben.
+<br>
+Die App ist ein Editor um Emojis auf Bilder zu Klatschen. Sie beinhaltet ein Menu, die Emoji Features (auswählen und hinzufügen), eine 404 Seite und Bilder Auswahl / Speicherung.
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/985537fc-895b-4ceb-8862-d3c329c36e5b" />
 
@@ -85,23 +87,27 @@ Heute erstellte ich eine App der ```https://docs.expo.dev/``` um Mobile Applikat
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/7b3015ba-4278-42cd-ba49-00ac44b7ef17" />
 
+<br> 
+
+Die Bilder oben zeigen die Home, About und Main Page. Navigierung ist mit dem Menu möglich. verbunden durch das _layout file <br> <img width="189" height="157" alt="image" src="https://github.com/user-attachments/assets/f16ad036-6612-47f5-9724-ea8149396b48" />
+
 <br>
 
-<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/c9d725ed-b05b-486d-ac29-f577c9f26a90" />
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/343cd752-9b84-4416-94c8-3c200153c783" />
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/d69d63af-4b36-4701-8875-82e5d774ca25" />
 
-<br>
+<br> Permission request und Foto Auswahl 
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/76586851-55bf-41b2-83db-1d616537b403" />
-
-<br>
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/b167a428-9245-45a1-a505-b8b4bcbbece2" />
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/d95cd68e-5913-4e8e-9df1-628ac22c5896" />
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/ee3353c4-56e3-4830-aaa8-c8539c45d87d" />
+
+<br> Das Emoji kann mit dem Finger verschoben werden und das Bild kann am Ende mit der Änderung in die Gallerie gespeichert werden.
 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/d46967dd-f239-471f-8197-623f190c9c84" />
 
