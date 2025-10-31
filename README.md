@@ -68,12 +68,12 @@ Als Lernender, der mit Expo und React Native anfängt, suche ich nach...
 
 ## 26.09
 
-adf
+Als Lernender, der mit Expo und React Native anfängt und an mehreren Projekten gleichzeitig arbeitet, versuche ich ...
 
-- [ ] lernen wie Widgets mit Expo funktionieren
-- [ ] Ein erstes Widget einbauen (ein custom text displayen)
-- [x] ein Lo-fi Prototyp für das Modul 335 kreieren
-- [x] mit der LB beginnen
+- [x] lernen wie Widgets mit Expo funktionieren - Syntax
+- [ ] Ein erstes Widget einbauen (ein custom text displayen) - ging nicht ohne Fehler -> werde nächstes mal an einer Fehlerlosen App arbeiten
+- [x] ein Lo-fi Prototyp für das Modul 335 kreieren - Nichts mit Expo zu tun sondern mit .Net Maui
+- [x] mit der LB beginnen - Doku-Struktur und weitere Organisatorische Aufgaben
 
 ## 31.10
 
